@@ -9,9 +9,9 @@ export function index(name) {
 export function component(name) {
   return `import './${name}.scss';
 
-// type ${name}Props = {} Add your props type
+// interface ${name}Props {} Add your props type
 
-const ${name} = (): JSX.Element => {
+const ${name} = ({}: ${name}Props => {
   return (
     <div className="${name}">Hello 👋, I am a ${name} component.</div>
   );

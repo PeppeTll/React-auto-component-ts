@@ -11,7 +11,7 @@ export function component(name) {
 
 // interface ${name}Props {} Add your props type
 
-const ${name} = ({}: ${name}Props => {
+const ${name} = ({}: ${name}Props) => {
   return (
     <div className="${name}">Hello 👋, I am a ${name} component.</div>
   );

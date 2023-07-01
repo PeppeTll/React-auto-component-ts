@@ -94,6 +94,8 @@ Make sure to specify the component name as an argument to the gc command.
 
 ## Link to repository
 
+https://github.com/PeppeTll/React-auto-component-ts.git
+
 ## Link to linkedin
 
 https://www.linkedin.com/in/peppetll/

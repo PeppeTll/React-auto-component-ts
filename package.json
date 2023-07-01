@@ -1,7 +1,7 @@
 {
 	"name": "react-auto-component-ts",
 	"type": "module",
-	"version": "1.0.6",
+	"version": "1.0.7",
 	"description": "`React-auto-component-ts` is a powerful tool that allows you to effortlessly generate React components in TypeScript (.tsx) and SCSS (Sass) format, all with a simple command-line interface. Say goodbye to manual component creation and embrace the efficiency of this fantastic package!",
 	"main": "index.js",
 	"scripts": {

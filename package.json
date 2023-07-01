@@ -1,33 +1,34 @@
 {
-  "name": "react-auto-component-ts",
-  "version": "1.0.1",
-  "description": "`React-auto-component-ts` is a powerful tool that allows you to effortlessly generate React components in TypeScript (.tsx) and SCSS (Sass) format, all with a simple command-line interface. Say goodbye to manual component creation and embrace the efficiency of this fantastic package!",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/PeppeTll/React-auto-component-ts.git"
-  },
-  "keywords": [
-    "react",
-    "typescript",
-    "component",
-    "automated",
-    "ts",
-    "tsx",
-    "js",
-    "javascript"
-  ],
-  "author": "Giuseppe Talluto",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/PeppeTll/React-auto-component-ts/issues"
-  },
-  "homepage": "https://github.com/PeppeTll/React-auto-component-ts#readme",
-  "devDependencies": {
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0"
-  }
+	"name": "react-auto-component-ts",
+	"type": "module",
+	"version": "1.0.1",
+	"description": "`React-auto-component-ts` is a powerful tool that allows you to effortlessly generate React components in TypeScript (.tsx) and SCSS (Sass) format, all with a simple command-line interface. Say goodbye to manual component creation and embrace the efficiency of this fantastic package!",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/PeppeTll/React-auto-component-ts.git"
+	},
+	"keywords": [
+		"react",
+		"typescript",
+		"component",
+		"automated",
+		"ts",
+		"tsx",
+		"js",
+		"javascript"
+	],
+	"author": "Giuseppe Talluto",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/PeppeTll/React-auto-component-ts/issues"
+	},
+	"homepage": "https://github.com/PeppeTll/React-auto-component-ts#readme",
+	"devDependencies": {
+		"react": "^18.2.0",
+		"react-dom": "^18.2.0"
+	}
 }

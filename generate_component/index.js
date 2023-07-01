@@ -1,6 +1,6 @@
 import { existsSync, mkdirSync, writeFile } from 'fs';
 import { index, component, barrel } from './component_templates.js';
-import { index as indexTSX, component as componentTSX, barrel as barrelTSX } from './component_templates_tsx.js';
+import { index as indexTSX, component as componentTSX, barrel as barrelTSX } from './component_templates_ts.js';
 
 const [name, fileType = 'jsx'] = process.argv.slice(2);
 if (!name) throw new Error('You must include a component name.');
